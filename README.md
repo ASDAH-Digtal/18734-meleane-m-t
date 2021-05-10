@@ -2,20 +2,20 @@
 # 18734
 ## Create a web page using a template (Level 1 Unit Standard)
 
-Name: 
+Name: Meleane Tovo
 
-Date: 
+Date: 10/05/2021
 
-Homeroom: 
+Homeroom: 10TT
 
-Teacher: 
+Teacher: Mr Malaetai
 
 # Instructions:
 
 ## Complete the following:
 1. What is the purpose of the web page?
-
-*INSERT ANSWER HERE*
+ 
+The purpose of a web page is to turn visitors into prospects. And the way to do this is to identify the major user types visiting your site, speak to their needs and give them a clear action step to take next.
 
 2. Who is the target audience of the web page?
 
