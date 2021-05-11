@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T01:02:09.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.11" etag="UvVXRaHdOWs_N83R6Xlz" type="github"><diagram id="iqpr5mrAYjwXvnlzRduS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-11T01:40:31.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="CdhFLlzK-6xkB8Qiy4ZI" version="14.6.11" type="github">
+  <diagram id="iqpr5mrAYjwXvnlzRduS" name="Page-1">
+    <mxGraphModel dx="742" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4nY_06EdZfit46rmcfSU-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="760" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="4nY_06EdZfit46rmcfSU-2" value="Piano" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4nY_06EdZfit46rmcfSU-3" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4nY_06EdZfit46rmcfSU-4" value="Piano" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+          <mxGeometry x="20" y="130" width="720" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4nY_06EdZfit46rmcfSU-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+          <mxGeometry x="20" y="240" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4nY_06EdZfit46rmcfSU-6" value="A piano is an acoustic, stringed instrument developed in Italy by maker Bartolomeo Cristofori around the year 1700, in which the strings are struck by wooden sledges that are covered with a gentler material. It is played utilizing a console, which is a column of keys that the entertainer pushes down or hits with the fingers and thumbs of two hands to make the mallets strike the strings.&lt;br&gt;Most current pianos have a column of 88 high contrast keys, 52 white keys for the notes of the C significant scale (C,D,E,F,G,An and B) and 36 more limited dark keys, which are raised over the white keys, and set further back on the console. This means that the piano can play 88 unique pitches (or &quot;notes&quot;), going from the most profound bas reach to the most elevated high pitch.&lt;br&gt;According to many studies, learning piano may enhance a child&#39;s language building skills and overall academic achievement.&amp;nbsp;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+          <mxGeometry x="240" y="240" width="500" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4nY_06EdZfit46rmcfSU-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+          <mxGeometry x="20" y="420" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4nY_06EdZfit46rmcfSU-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+          <mxGeometry x="240" y="420" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4nY_06EdZfit46rmcfSU-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+          <mxGeometry x="560" y="420" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4nY_06EdZfit46rmcfSU-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+          <mxGeometry x="20" y="560" width="720" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4nY_06EdZfit46rmcfSU-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+          <mxGeometry x="20" y="660" width="720" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
