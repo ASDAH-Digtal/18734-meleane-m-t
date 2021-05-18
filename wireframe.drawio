@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T00:46:03.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="mOO7qpQhrSqnNQoYbV3f" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T01:41:13.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="RxGV6dSd67x4PJOe9OZY" version="14.6.13" type="github">
   <diagram id="iqpr5mrAYjwXvnlzRduS" name="Page-1">
-    <mxGraphModel dx="922" dy="2993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="2936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4nY_06EdZfit46rmcfSU-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fillColor=#050505;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="40" y="-2160" width="760" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=1;fillColor=#FFD966;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=1;fillColor=#FFD966;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
           <mxGeometry x="530" y="410" width="210" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=1;fillColor=#FF8000;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=1;fillColor=#FF8000;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
           <mxGeometry x="10" y="230" width="230" height="170" as="geometry" />
         </mxCell>
         <mxCell id="4nY_06EdZfit46rmcfSU-2" value="Piano" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
@@ -19,49 +19,49 @@
         <mxCell id="4nY_06EdZfit46rmcfSU-3" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="4nY_06EdZfit46rmcfSU-4" value="Piano" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#FFD966;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
+        <mxCell id="4nY_06EdZfit46rmcfSU-4" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Piano&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#FFD966;align=center;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
           <mxGeometry x="10" y="130" width="730" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4nY_06EdZfit46rmcfSU-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;A piano is an acoustic, stringed instrument developed in Italy by maker Bartolomeo Cristofori around the year 1700, in which the strings are struck by wooden sledges that are covered with a gentler material. It is played utilizing a console, which is a column of keys that the entertainer pushes down or hits with the fingers and thumbs of two hands to make the mallets strike the strings.&lt;br&gt;Most current pianos have a column of 88 high contrast keys, 52 white keys for the notes of the C significant scale (C,D,E,F,G,An and B) and 36 more limited dark keys, which are raised over the white keys, and set further back on the console. This means that the piano can play 88 unique pitches (or &quot;notes&quot;), going from the most profound bas reach to the most elevated high pitch.&lt;br&gt;According to many studies, learning piano may enhance a child&#39;s language building skills and overall academic achievement.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF8000;align=left;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
+        <mxCell id="4nY_06EdZfit46rmcfSU-6" value="&lt;h3 style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;A piano is an acoustic, stringed instrument developed in Italy by maker Bartolomeo Cristofori around the year 1700, in which the strings are struck by wooden sledges that are covered with a gentler material. It is played utilizing a console, which is a column of keys that the entertainer pushes down or hits with the fingers and thumbs of two hands to make the mallets strike the strings.&lt;/font&gt;&lt;/font&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Most current pianos have a column of 88 high contrast keys, 52 white keys for the notes of the C significant scale (C,D,E,F,G,An and B) and 36 more limited dark keys, which are raised over the white keys, and set further back on the console. This means that the piano can play 88 unique pitches, going from the most profound bas reach to the most elevated high pitch.&lt;/font&gt;&lt;/font&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;According to many studies, learning piano may enhance a child&#39;s language building skills and overall academic achievement.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF8000;align=left;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
           <mxGeometry x="250" y="230" width="490" height="170" as="geometry" />
         </mxCell>
         <mxCell id="4nY_06EdZfit46rmcfSU-7" value="&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Baby Grand&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Grand&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Square Grand&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Spinet&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Upright&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Organ&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Player&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
           <mxGeometry x="10" y="410" width="230" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4nY_06EdZfit46rmcfSU-15" value="&lt;a href=&quot;https://www.youtube.com/watch?v=fiHDCA9p8dM&quot;&gt;&lt;b&gt;https://www.youtube.com/watch?v=fiHDCA9p8dM&lt;/b&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
+        <mxCell id="4nY_06EdZfit46rmcfSU-15" value="&lt;a href=&quot;https://www.youtube.com/watch?v=b6_AYMkfn8U&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;https://www.youtube.com/watch?v=b6_AYMkfn8U&lt;/font&gt;&lt;/b&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
           <mxGeometry x="250" y="410" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="4nY_06EdZfit46rmcfSU-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;Meleane Tovo Copyright 2021&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFD966;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
           <mxGeometry x="10" y="660" width="730" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-2" value="&lt;ol&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Piano&quot;&gt;https://en.wikipedia.org/wiki/Piano&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;a href=&quot;https://unsplash.com/photos/8QrPJ3Kfie4   https://unsplash.com/photos/o3xm7jAUp2I&quot;&gt;https://unsplash.com/photos/8QrPJ3Kfie4   https://unsplash.com/photos/o3xm7jAUp2I&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;fontStyle=1;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-2" value="&lt;ol&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Piano&quot;&gt;https://en.wikipedia.org/wiki/Piano&lt;/a&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify&quot;&gt;&lt;a href=&quot;https://unsplash.com/photos/8QrPJ3Kfie4   https://unsplash.com/photos/o3xm7jAUp2I&quot;&gt;https://unsplash.com/photos/8QrPJ3Kfie4   https://unsplash.com/photos/o3xm7jAUp2I&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;fontStyle=1;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
           <mxGeometry x="10" y="560" width="730" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.unsplash.com/photo-1552422535-c45813c61732?ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&amp;ixlib=rb-1.2.1&amp;w=1000&amp;q=80;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.unsplash.com/photo-1552422535-c45813c61732?ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&amp;ixlib=rb-1.2.1&amp;w=1000&amp;q=80;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
           <mxGeometry x="541.34" y="417.5" width="187.32" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80;" vertex="1" parent="4nY_06EdZfit46rmcfSU-1">
+        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80;" parent="4nY_06EdZfit46rmcfSU-1" vertex="1">
           <mxGeometry x="20.1" y="245" width="209.79" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="675" y="-165" as="sourcePoint" />
             <mxPoint x="675" y="-145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="675" y="-165" as="sourcePoint" />
             <mxPoint x="675" y="-145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="675" y="-165" as="sourcePoint" />
             <mxPoint x="675" y="-145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="NIR6g6OnUcmGIQ-TP1Pi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="675" y="-165" as="sourcePoint" />
             <mxPoint x="675" y="-145" as="targetPoint" />
