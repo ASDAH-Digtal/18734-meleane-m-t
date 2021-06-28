@@ -22,9 +22,6 @@ Date:
     "footer footer footer";
 }
 
-.container > div{ /*DO NOT REMOVE*/
-    padding: 10px;
-}
 
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
@@ -66,6 +63,7 @@ Date:
     background-color: #F2D666;
     text-align: left;
     font-family: 'Sigmar One', cursive;
+    padding: 25px;
 }
 
 .videoSection{ /*DO NOT REMOVE*/
